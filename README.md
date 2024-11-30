@@ -1,5 +1,5 @@
 # 💫 About Me:
-ANDROID DEVELOPMENT AND DATA ANALYSIS
+Innovative Android Developer & Data Analyst Empowering Data-Driven Mobile Solutions
 
 
 ## 🌐 Socials:
